@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Tudor's Hyperlink Extravaganza",
+    pageTitle: "Hyperlink Extravaganza",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
