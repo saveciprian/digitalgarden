@@ -1,0 +1,1 @@
+{{date: dddd, Do [of] MMMM YYYY}}
