@@ -10,8 +10,6 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       Instagram: "http://instagram.com/saveciprian",
       Portfolio: "https://saveciprian.webflow.io/",
-      // GitHub: "https://github.com/jackyzha0/quartz",
-      // "Discord Community": "https://discord.gg/cRFFHYye7t",
     },
   }),
 }
