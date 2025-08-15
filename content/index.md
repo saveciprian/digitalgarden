@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Staring down the rabbit hole
 ---
+Welcome, traveler! You find yourself at the threshold of my peculiar amalgamation of notes spanning art, programming, game development and whatever else has captivated my attention over the years. 
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+*Step in and see what you can find!*
