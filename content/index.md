@@ -1,7 +1,9 @@
 ---
-title: Random first post to test blog
+title: Homepage
 ---
 Welcome, traveler! You find yourself at the threshold of my peculiar amalgamation of notes spanning art, programming, game development and whatever else has captivated my attention over the years. 
+
+## This is the homepage of the blog
 
 Can even link notes together: [[23rd of December]]
 
