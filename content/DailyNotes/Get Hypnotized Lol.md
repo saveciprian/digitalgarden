@@ -1,4 +1,4 @@
 woooOOooOoOOooOOO....
 
-![[Images/giphy.gif]]
-![[Images/Timeline 1.mp4]]![[Images/images.jpeg]]
+![[assets/giphy.gif]]
+![[assets/Timeline 1.mp4]]![[assets/images.jpeg]]
