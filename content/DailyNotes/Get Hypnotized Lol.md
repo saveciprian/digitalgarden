@@ -1,2 +1,3 @@
 woooOOooOoOOooOOO....
-![[public/giphy.gif]]
+![[content/Images/giphy.gif]]
+![[Timeline 1.mp4]]
