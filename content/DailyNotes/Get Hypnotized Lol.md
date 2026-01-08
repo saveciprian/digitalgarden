@@ -1,4 +1,4 @@
 woooOOooOoOOooOOO....
-![[content/Images/giphy.gif]]
-![[Timeline 1.mp4]]![[images.jpeg]]
-some more tests jeez
+
+![[Images/giphy.gif]]
+![[Images/Timeline 1.mp4]]![[Images/images.jpeg]]
